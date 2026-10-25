@@ -1,0 +1,6 @@
+{
+  "name": "DKDC · Dhruti Krishna Dental Care",
+  "description": "Precision dental medicine and aesthetic dentistry. Online booking, comprehensive service gallery, and patient testimonials in an Apple minimalist design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
